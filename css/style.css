@@ -1,0 +1,110 @@
+body{
+	margin:0;
+	background:url('../img/bg1.jpg');
+}
+h1, h2{
+	text-align:center;
+	font-style:italic;
+}
+.h1{
+	
+	margin:0;
+	background: url('../img/bg1.jpg');
+	padding-top:50px;
+	padding-bottom:50px;
+	color:#F3F2F1;
+	font-size:120%;
+	font-family:Lucida Sans Unicode, sans-serif;
+}
+#sitebar{
+	border-top:2px solid #C6C3C3;
+	border-bottom:2px solid #C6C3C3;
+	border-radius:20%;
+	text-align:center;
+	padding-top:25px;
+	padding-bottom:25px;
+	margin:5px 150px 2px 150px;
+	
+}
+.who{
+	margin-right:150px;
+	text-decoration:none;
+	font-size:150%;
+	font-family:Tahoma, sans-serif;
+	
+}
+.contacts{
+	margin-left:150px;
+	text-decoration:none;
+	font-size:150%;
+	font-family:Tahoma, sans-serif;
+}
+.about{
+	text-decoration:none;
+	font-size:150%;
+	font-family:Tahoma, sans-serif;
+}
+a:link{
+	color:black;
+}
+a:visited{
+	color:black;
+}
+a:active{
+	color:#C6C3C3;
+}
+a:hover{
+	color:#C6C3C3;
+}
+#frame{
+	
+	background-color:#D7D5D5;
+	width:100%;
+	margin:0;
+}
+p{
+	text-align:center;
+	margin-right:120px;
+	margin-left:120px;
+	font-size:120%;
+	font-family:Lucida Sans Unicode, sans-serif;
+}	
+
+
+#who{
+	border:1px solid #E6E0E0;
+	background-color:#E6E0E0;
+	margin-top:50px;
+	padding-bottom:7px;
+}
+
+.home{
+	text-align:center;
+	text-decoration:none;
+	font-size:150%;
+}
+#about{
+	background-color:#E9E5E2;
+	margin-top:50px;
+}
+em{
+	text-align:center;
+	font-style:italic;
+}
+
+#contacts{
+	background-color:#F3F2F1;
+	margin-top:50px;
+}
+.Copyright{
+	background: url('../img/bg2.jpg') no-repeat;
+	margin:0;
+	padding:100px 0 100px 0;
+	color:#F3F2F1;
+}
+.ssilka a{
+	color:#F3F2F1;
+}
+#sitebar1{
+	background-color:white;
+}
